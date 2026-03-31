@@ -1,9 +1,9 @@
 title: "DevOps Journey | Karim Garcia"
 description: "Cloud-native experiments and automation projects."
 # Use the theme name directly without 'remote_theme' to avoid version conflicts
-theme: minima
-
-# Plugins required for a basic blog
+#theme: minima
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme # add this line to the plugins list if you already have one
