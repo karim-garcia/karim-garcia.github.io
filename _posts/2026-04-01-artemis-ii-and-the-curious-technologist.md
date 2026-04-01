@@ -22,8 +22,6 @@ The Artemis mission is the ultimate expression of that drive. In my personal per
 
 3. **Curiosity Outlasts Tools:** Programming languages, hardware, and frameworks change every single year. However, the *desire* to solve the "impossible" is what keeps us engaged for decades. It is the curiosity—not the specific tool—that keeps a technologist relevant over a 25-year career.
 
-### **Final Thoughts**
-
 Artemis II reminds us that "Good Enough" is never enough. We innovate because we are curious. We automate because we want to go further. 
 
 To the crew of Artemis II: Godspeed. To my fellow tech explorers: Keep building, keep breaking, and keep looking up. Because at the end of the day, the distance between a workstation and the lunar surface is bridged by the courage to ask, *"What's next?"*
