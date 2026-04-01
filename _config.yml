@@ -2,6 +2,7 @@ title: "DevOps Journey | Karim Garcia"
 description: "Cloud-native experiments and automation projects."
 theme: minima
 #permalink: /:categories/:title/
+baseurl: ""
 permalink: /:title/
 #remote_theme: pages-themes/architect@v0.2.0
 plugins:
