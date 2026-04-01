@@ -1,9 +1,14 @@
 title: "DevOps Journey | Karim Garcia"
-description: "Cloud-native experiments and automation projects."
+description: "Cloud-native experiments, DevOps methodologies, and automation projects."
 theme: minima
 permalink: /:title/
-#remote_theme: pages-themes/architect@v0.2.0
+
+header_pages:
+  - index.md
+
+github_username:  https://github.com/karim-garcia/
+linkedin_school:  https://www.linkedin.com/in/karimgarciaguillen
+
 plugins:
-- jekyll-feed
-- jekyll-seo-tag
-#- jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
