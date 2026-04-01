@@ -1,3 +1,12 @@
+---
+layout: post
+title: "From Messy Code to Masterpiece: Applying 5S to Web Development"
+date: 2026-03-31 10:00:00 -0400
+categories: methodology devops
+author: "Karim Garcia"
+description: "How to apply Japanese manufacturing principles to clean up technical debt and improve team velocity."
+---
+
 ## From Messy Code to Masterpiece: Why Your Dev Team Needs 5S
 
 We’ve all been there: a repository that feels like a junk drawer, dependencies that haven’t been updated since 2022, and "spaghetti code" that everyone is afraid to touch. In web development, clutter isn't always visible, but it’s lethal to productivity.
