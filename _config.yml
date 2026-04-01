@@ -11,3 +11,5 @@ linkedin_school: karimgarciaguillen
 
 plugins:
   - jekyll-seo-tag
+
+exclude: [feed.xml]
